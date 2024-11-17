@@ -2,7 +2,7 @@
 
 I interests with IT and making Applications like desktop, mobile and web.
 
-## I have skills like :
+## My Skills
 
 - Fast Typing On Keyboard
 - Problem Solving 
