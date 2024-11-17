@@ -1,15 +1,15 @@
 # About Me
 
 ## I interests with IT and making Applications like desktop, mobile and web.
--
+
 ## I have skills like :
 
-### Fast Typing On Keyboard
-### Problem Solving 
-### HTML, CSS & JS
-### C#, VB & C++(Basic Knowledage)
-### Team Working
-### Excellent English Knowledage
+### - Fast Typing On Keyboard
+### - Problem Solving 
+### - HTML, CSS & JS
+### - C#, VB & C++(Basic Knowledage)
+### - Team Working
+### - Excellent English Knowledage
 
 ## My Hobbies
 
