@@ -1,6 +1,6 @@
 # About Me
 
-## I interests with IT and making Applications like desktop, mobile and web.
+### I interests with IT and making Applications like desktop, mobile and web.
 
 ## I have skills like :
 
