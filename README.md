@@ -2,7 +2,7 @@
 
 I interests with IT and making Applications like desktop, mobile and web.
 
-### My Skills
+## My Skills
 
 - Fast Typing On Keyboard
 - Problem Solving 
@@ -11,7 +11,7 @@ I interests with IT and making Applications like desktop, mobile and web.
 - Team Working
 - Excellent English Knowledage
 
-### My Hobbies
+## My Hobbies
 
 - Playing Video Games
 - Watching Movies & Series
