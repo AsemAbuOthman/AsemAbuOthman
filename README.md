@@ -13,8 +13,8 @@ I interests with IT and making Applications like desktop, mobile and web.
 
 ## My Hobbies
 
-- Video Games
-- Watch Movies & Series
+- Playing Video Games
+- Watching Movies & Series
 
 <!--
 **AsemAbuOthman/AsemAbuOthman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
