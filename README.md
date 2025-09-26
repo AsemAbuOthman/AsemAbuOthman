@@ -7,7 +7,7 @@ I interests with IT and making Applications like desktop, mobile and web.
 - Fast Typing On Keyboard
 - Problem Solving 
 - HTML, CSS & JS
-- C#, VB & C++(Basic Knowledage)
+- Node.js, C#, VB & C++
 - Team Working
 - Excellent English Knowledage
 
